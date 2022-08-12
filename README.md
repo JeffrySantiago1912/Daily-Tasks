@@ -1,4 +1,4 @@
-                                    Web application to record daily tasks
+                                             Web application to record daily tasks
 
 
 ![tareas 1](https://user-images.githubusercontent.com/66681577/184425201-acd71836-bd3b-4ec6-8e29-b7637c9411d0.PNG)
